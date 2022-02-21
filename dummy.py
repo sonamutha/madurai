@@ -6,3 +6,6 @@ line four
 line five
 line 6
 line 7
+test
+new line staging 1
+staging 2
